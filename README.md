@@ -28,3 +28,23 @@
 ![Alt text](docs/Pasted%20image%2020241224201904.png)
 ![Alt text](docs/Pasted%20image%2020241224201421.png)
 ![Alt text](docs/Pasted%20image%2020241224201447.png)
+
+## Установка и запуск
+
+### Запуск с использованием Docker Hub
+
+1. Скачайте образы из Docker Hub:
+    ```bash
+    docker pull kostinvv/todoapp
+    docker pull kostinvv/shorturl
+    ```
+
+2. Запустите контейнеры с использованием скачанных образов:
+    ```bash
+    docker run -p 8001:80 kostinvv/todoapp
+    docker run -p 8000:80 kostinvv/shorturl
+    ```
+
+3. TODO-сервис будет доступен по адресу: [http://localhost:8001/docs](http://localhost:8000/docs)
+
+4. Short URL-сервис будет доступен по адресу: [http://localhost:8000/docs](http://localhost:8001/docs)

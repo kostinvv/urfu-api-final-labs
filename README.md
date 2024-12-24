@@ -11,11 +11,11 @@
 Дополнительно реализовано:
 - метод PATCH (частичное обновление);
 - GET /items добавлена пагинация.
+![Alt text](docs/Pasted%20image%2020241224194653.png)
+![Alt text](docs/Pasted%20image%2020241224194730.png)
+![Alt text](docs/Pasted%20image%2020241224201648.png)
+![Alt text](docs/Pasted%20image%2020241224201713.png)
 
-![[Pasted image 20241224194653.png]]
-![[Pasted image 20241224194730.png]]
-![[Pasted image 20241224201648.png]]
-![[Pasted image 20241224201713.png]]
 ### Short URL-сервис
 - cоздание короткой ссылки для длинного URL;
 - перенаправление по короткой ссылке;
@@ -23,8 +23,8 @@
 
 Дополнительно реализовано: удаление ссылки.
 
-![[Pasted image 20241224195126.png]]
-![[Pasted image 20241224195142.png]]
-![[Pasted image 20241224201904.png]]
-![[Pasted image 20241224201421.png]]
-![[Pasted image 20241224201447.png]]
+![Alt text](docs/Pasted%20image%2020241224195126.png)
+![Alt text](docs/Pasted%20image%2020241224195142.png)
+![Alt text](docs/Pasted%20image%2020241224201904.png)
+![Alt text](docs/Pasted%20image%2020241224201421.png)
+![Alt text](docs/Pasted%20image%2020241224201447.png)
